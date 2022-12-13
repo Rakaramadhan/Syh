@@ -20,14 +20,14 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/chanel/@pannmods'
-global.ig = 'https://www.instagram.com/reel/Cc915M2JRzd/?igshid=YmMyMTA2M2Y='
+global.youtube = 'https://youtube.com/chanel/@Foxxy offc'
+global.ig = 'https://www.instagram.com/raka.ramadhan180108'
 global.mygc = 'https://chat.whatsapp.com/Gv1D2edigPo1Jrqum2Ekou'
-global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozuvZGz'
+global.myweb = 'https://youtube.com/Foxxy offc'
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
-global.email = 'TheZyrenn@gmail.com'
+global.email = 'KhaTheHard@gmail.com'
 global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
@@ -40,17 +40,17 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[⫹⫺ - 𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KhaTheDarknees' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '[⫹⫺ - Aisyah-MultiDevice - ⫹⫺]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'KhaTheDarkness' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['1(315)818285']
-global.premium = ['1(315)818285']
-global.packname = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ'
-global.ownerr = ['𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️']
-global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
-global.sessionName = './sessionye/paktzy'
+global.owner = ['62882006212045']
+global.premium = ['62882006212045']
+global.packname = 'KhaTheDarkness'
+global.ownerr = ['KhaTheDarkness']
+global.author = '[ItsMeRaka!]'
+global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -63,7 +63,7 @@ wait: '⏳ _*Loading...*_',
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 6969
+    free: 50
 }
    global.rpg = {
    darahawal: 100,
