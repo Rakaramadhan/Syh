@@ -9,7 +9,7 @@ const chalk = require('chalk')
 //=================================================//
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
-global.available = true //status online (online)
+global.available = false //status online (online)
 global.autred = false
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
@@ -32,7 +32,7 @@ global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
 global.ntnsfw = []
-global.region = 'Indonesia'
+global.region = 'isekai'
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
 global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
@@ -40,16 +40,16 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'KhaTheDarknees' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = '[⫹⫺ - Aisyah-MultiDevice - ⫹⫺]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'KhaTheDarkness' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = '✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882006212045']
-global.premium = ['62882006212045']
+global.owner = ['62895386209243']
+global.premium = ['62895386209243']
 global.packname = 'KhaTheDarkness'
-global.ownerr = ['KhaTheDarkness']
-global.author = '[ItsMeRaka!]'
+global.ownerr = ['✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞']
+global.author = '[✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞!]'
 global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
